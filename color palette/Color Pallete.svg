@@ -49,9 +49,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="376.76042"
-     inkscape:cy="809.65563"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="150.33654"
+     inkscape:cy="717.42943"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -199,7 +199,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       style="fill:#2a7fff;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#3c6eb4;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect13046"
        width="58.214287"
        height="25.357143"
@@ -211,7 +211,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       style="fill:#55d400;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#79db32;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect13046-5"
        width="58.214287"
        height="25.357143"
@@ -235,19 +235,19 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#dedede;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect13046-5-9-3"
        width="58.214287"
        height="25.357143"
-       x="141.15402"
-       y="396.56354"
+       x="141.08223"
+       y="421.6723"
        ry="0"
        rx="0.22321428"
        inkscape:export-filename="Color Palette.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ccccff;fill-opacity:0;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect13046-5-9-3-5"
        width="58.214287"
        height="25.357143"
@@ -283,19 +283,19 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       style="fill:#ff6600;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#e59728;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect13046-5-9-3-2-0"
        width="58.214287"
        height="25.357143"
        x="140.96832"
-       y="260.19641"
+       y="285.91071"
        ry="0"
        rx="0.22321428"
        inkscape:export-filename="Color Palette.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect13046-5-9-3-2-8"
        width="58.214287"
        height="25.357143"
@@ -324,7 +324,7 @@
        width="58.214287"
        height="25.357143"
        x="141.18089"
-       y="422.013"
+       y="397.013"
        ry="0"
        rx="0.22321428"
        inkscape:export-filename="Color Palette.png"
@@ -511,7 +511,7 @@
          id="tspan12372-3-5-09-5"
          x="35.469101"
          y="167.07623"
-         style="font-size:12.5px">Link Blue</tspan></text>
+         style="font-size:12.5px">Fedora Blue</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -617,8 +617,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="36.026104"
-       y="277.71136"
+       x="37.824352"
+       y="302.33191"
        id="text12370-5-6-8-7-5-8-3"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -626,12 +626,12 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan12372-3-5-09-5-0-5-6"
-         x="36.026104"
-         y="277.71136"
+         x="37.824352"
+         y="302.33191"
          style="font-size:12.5px">Tag Orange</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="37.912598"
        y="362.0914"
        id="text12370-5-6-8-7-5-8-3-6-3"
@@ -643,7 +643,7 @@
          id="tspan12372-3-5-09-5-0-5-6-7-5"
          x="37.912598"
          y="362.0914"
-         style="font-size:12.5px">80% Gray</tspan></text>
+         style="font-size:12.5px;fill:#000000;fill-opacity:1;">Dark Gray</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -658,12 +658,12 @@
          id="tspan12372-3-5-09-5-0-5-6-7-5-7"
          x="38.310635"
          y="388.20554"
-         style="font-size:12.5px">60% Gray</tspan></text>
+         style="font-size:12.5px">Gray</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="37.953491"
-       y="413.20554"
+       x="37.881702"
+       y="438.31427"
        id="text12370-5-6-8-7-5-8-3-6-3-1"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -671,14 +671,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan12372-3-5-09-5-0-5-6-7-5-8"
-         x="37.953491"
-         y="413.20554"
-         style="font-size:12.5px">50% Gray</tspan></text>
+         x="37.881702"
+         y="438.31427"
+         style="font-size:12.5px">Light Gray</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="38.667778"
-       y="438.20554"
+       y="413.20554"
        id="text12370-5-6-8-7-5-8-3-6-3-9"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -687,7 +687,7 @@
          sodipodi:role="line"
          id="tspan12372-3-5-09-5-0-5-6-7-5-3"
          x="38.667778"
-         y="438.20554"
+         y="413.20554"
          style="font-size:12.5px">40% Gray</tspan></text>
     <text
        xml:space="preserve"
@@ -703,7 +703,7 @@
          id="tspan12372-3-5-09-5-0-5-6-7-5-0"
          x="37.953491"
          y="464.63412"
-         style="font-size:12.5px">10% Gray</tspan></text>
+         style="font-size:12.5px">5% Gray</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40.41555786px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -824,7 +824,7 @@
          id="tspan12372-3-5-32"
          x="214.36926"
          y="167.71375"
-         style="font-size:12.5px">42</tspan></text>
+         style="font-size:12.5px">60</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -839,7 +839,7 @@
          id="tspan12372-3-5-6"
          x="257.13974"
          y="167.92296"
-         style="font-size:12.5px">127</tspan></text>
+         style="font-size:12.5px">110</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -854,12 +854,12 @@
          id="tspan12372-3-5-12"
          x="302.15027"
          y="167.95885"
-         style="font-size:12.5px">255</tspan></text>
+         style="font-size:12.5px">180</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="359.4559"
-       y="169.08104"
+       x="354.40515"
+       y="167.06073"
        id="text12370-5-6-36"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -867,9 +867,9 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan12372-3-5-9"
-         x="359.4559"
-         y="169.08104"
-         style="font-size:12.5px">#2a7fff</tspan></text>
+         x="354.40515"
+         y="167.06073"
+         style="font-size:12.5px">#3c6eb4</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -884,7 +884,7 @@
          id="tspan12372-3-5-29"
          x="214.40952"
          y="192.95885"
-         style="font-size:12.5px">85</tspan></text>
+         style="font-size:12.5px">121</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -899,7 +899,7 @@
          id="tspan12372-3-5-14"
          x="256.10855"
          y="193.07089"
-         style="font-size:12.5px">212</tspan></text>
+         style="font-size:12.5px">219</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -914,10 +914,10 @@
          id="tspan12372-3-5-03"
          x="310.52734"
          y="193.36674"
-         style="font-size:12.5px">0</tspan></text>
+         style="font-size:12.5px">50</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="353.02734"
        y="192.65247"
        id="text12370-5-6-41"
@@ -929,7 +929,7 @@
          id="tspan12372-3-5-35"
          x="353.02734"
          y="192.65247"
-         style="font-size:12.5px">#55d400</tspan></text>
+         style="font-size:12.5px;fill:#000000;fill-opacity:1;">#79db32</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1004,7 +1004,7 @@
          id="tspan12372-3-5-55"
          x="210.5676"
          y="277.97446"
-         style="font-size:12.5px">255</tspan></text>
+         style="font-size:12.5px">204</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1019,11 +1019,11 @@
          id="tspan12372-3-5-957"
          x="257.20538"
          y="277.73987"
-         style="font-size:12.5px">102</tspan></text>
+         style="font-size:12.5px">151</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="309.75177"
+       x="306.89462"
        y="278.09702"
        id="text12370-5-6-361"
        sodipodi:linespacing="125%"
@@ -1032,12 +1032,12 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan12372-3-5-36"
-         x="309.75177"
+         x="306.89462"
          y="278.09702"
-         style="font-size:12.5px">0</tspan></text>
+         style="font-size:12.5px">53</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="354.03751"
        y="277.73987"
        id="text12370-5-6-86"
@@ -1049,7 +1049,7 @@
          id="tspan12372-3-5-28"
          x="354.03751"
          y="277.73987"
-         style="font-size:12.5px;fill:#000000;fill-opacity:1;">#ff6600</tspan></text>
+         style="font-size:12.5px;fill:#000000;fill-opacity:1">#cc9933</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1173,8 +1173,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="209.42291"
-       y="414.30832"
+       x="209.35112"
+       y="439.41705"
        id="text12370-5-6-39-4"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -1182,14 +1182,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan12372-3-5-72-5"
-         x="209.42291"
-         y="414.30832"
-         style="font-size:12.5px">128</tspan></text>
+         x="209.35112"
+         y="439.41705"
+         style="font-size:12.5px">222</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="257.67307"
-       y="414.78802"
+       x="257.60126"
+       y="439.89679"
        id="text12370-5-6-05-3"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -1197,14 +1197,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan12372-3-5-88-6"
-         x="257.67307"
-         y="414.78802"
-         style="font-size:12.5px">128</tspan></text>
+         x="257.60126"
+         y="439.89679"
+         style="font-size:12.5px">222</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="304.39755"
-       y="414.86417"
+       x="304.32578"
+       y="439.9729"
        id="text12370-5-6-98-1"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -1212,14 +1212,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan12372-3-5-59-2"
-         x="304.39755"
-         y="414.86417"
-         style="font-size:12.5px">128</tspan></text>
+         x="304.32578"
+         y="439.9729"
+         style="font-size:12.5px">222</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="353.86707"
-       y="414.14987"
+       x="353.79529"
+       y="439.25861"
        id="text12370-5-6-29-5"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -1227,14 +1227,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan12372-3-5-95-4"
-         x="353.86707"
-         y="414.14987"
-         style="font-size:12.5px">#808080</tspan></text>
+         x="353.79529"
+         y="439.25861"
+         style="font-size:12.5px">#dedede</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="209.8562"
-       y="439.74161"
+       y="414.74161"
        id="text12370-5-6-90-9"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -1243,13 +1243,13 @@
          sodipodi:role="line"
          id="tspan12372-3-5-55-2"
          x="209.8562"
-         y="439.74161"
+         y="414.74161"
          style="font-size:12.5px">153</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="257.13651"
-       y="439.86417"
+       y="414.86417"
        id="text12370-5-6-74-5"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -1258,13 +1258,13 @@
          sodipodi:role="line"
          id="tspan12372-3-5-957-9"
          x="257.13651"
-         y="439.86417"
+         y="414.86417"
          style="font-size:12.5px">153</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="304.04037"
-       y="440.57846"
+       y="415.57846"
        id="text12370-5-6-361-7"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -1273,13 +1273,13 @@
          sodipodi:role="line"
          id="tspan12372-3-5-36-0"
          x="304.04037"
-         y="440.57846"
+         y="415.57846"
          style="font-size:12.5px">153</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="353.32611"
-       y="439.50705"
+       y="414.50705"
        id="text12370-5-6-86-4"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -1288,7 +1288,7 @@
          sodipodi:role="line"
          id="tspan12372-3-5-28-8"
          x="353.32611"
-         y="439.50705"
+         y="414.50705"
          style="font-size:12.5px">#999999</tspan></text>
     <text
        xml:space="preserve"
@@ -1304,7 +1304,7 @@
          id="tspan12372-3-5-29-6-8"
          x="210.62605"
          y="464.94327"
-         style="font-size:12.5px">230</tspan></text>
+         style="font-size:12.5px">242</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1319,7 +1319,7 @@
          id="tspan12372-3-5-14-5-9"
          x="258.39651"
          y="465.41245"
-         style="font-size:12.5px">230</tspan></text>
+         style="font-size:12.5px">242</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1334,7 +1334,7 @@
          id="tspan12372-3-5-03-8-7"
          x="304.95816"
          y="464.99405"
-         style="font-size:12.5px">230</tspan></text>
+         style="font-size:12.5px">242</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1349,7 +1349,7 @@
          id="tspan12372-3-5-35-3-3"
          x="354.24387"
          y="464.27975"
-         style="font-size:12.5px">#e6e6e6</tspan></text>
+         style="font-size:12.5px">#f2f2f2</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1593,8 +1593,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="446.79959"
-       y="415.32611"
+       x="446.72781"
+       y="440.43488"
        id="text12370-5-6-90-3-8"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -1602,14 +1602,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan12372-3-5-55-7-27"
-         x="446.79959"
-         y="415.32611"
+         x="446.72781"
+         y="440.43488"
          style="font-size:12.5px">0</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="494.44751"
-       y="415.09152"
+       x="494.37573"
+       y="440.20026"
        id="text12370-5-6-74-0-4"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -1617,14 +1617,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan12372-3-5-957-6-0"
-         x="494.44751"
-         y="415.09152"
+         x="494.37573"
+         y="440.20026"
          style="font-size:12.5px">0</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="542.44824"
-       y="414.9436"
+       x="542.37646"
+       y="440.05237"
        id="text12370-5-6-361-2-2"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -1632,14 +1632,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan12372-3-5-36-7-3"
-         x="542.44824"
-         y="414.9436"
+         x="542.37646"
+         y="440.05237"
          style="font-size:12.5px">0</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="587.99677"
-       y="414.83899"
+       x="587.92499"
+       y="439.94775"
        id="text12370-5-6-86-3-1"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -1647,14 +1647,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan12372-3-5-28-9-3"
-         x="587.99677"
-         y="414.83899"
-         style="font-size:12.5px">50</tspan></text>
+         x="587.92499"
+         y="439.94775"
+         style="font-size:12.5px">13</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="446.79959"
-       y="440.32614"
+       y="415.32614"
        id="text12370-5-6-90-3-82"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -1663,13 +1663,13 @@
          sodipodi:role="line"
          id="tspan12372-3-5-55-7-23"
          x="446.79959"
-         y="440.32614"
+         y="415.32614"
          style="font-size:12.5px">0</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="494.44751"
-       y="440.09152"
+       y="415.09152"
        id="text12370-5-6-74-0-3"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -1678,13 +1678,13 @@
          sodipodi:role="line"
          id="tspan12372-3-5-957-6-3"
          x="494.44751"
-         y="440.09152"
+         y="415.09152"
          style="font-size:12.5px">0</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="542.44824"
-       y="439.94363"
+       y="414.94363"
        id="text12370-5-6-361-2-4"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -1693,13 +1693,13 @@
          sodipodi:role="line"
          id="tspan12372-3-5-36-7-31"
          x="542.44824"
-         y="439.94363"
+         y="414.94363"
          style="font-size:12.5px">0</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="587.9967"
-       y="439.83902"
+       y="414.83902"
        id="text12370-5-6-86-3-11"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -1708,7 +1708,7 @@
          sodipodi:role="line"
          id="tspan12372-3-5-28-9-8"
          x="587.9967"
-         y="439.83902"
+         y="414.83902"
          style="font-size:12.5px">40</tspan></text>
     <text
        xml:space="preserve"
@@ -1758,8 +1758,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="588.711"
-       y="465.19614"
+       x="590.4967"
+       y="465.55328"
        id="text12370-5-6-86-3-6"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -1767,9 +1767,9 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan12372-3-5-28-9-94"
-         x="588.711"
-         y="465.19614"
-         style="font-size:12.5px">10</tspan></text>
+         x="590.4967"
+         y="465.55328"
+         style="font-size:12.5px">5</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1904,7 +1904,7 @@
          id="tspan12372-3-5-55-7-25"
          x="442.76605"
          y="168.4231"
-         style="font-size:12.5px">80</tspan></text>
+         style="font-size:12.5px">67</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1919,7 +1919,7 @@
          id="tspan12372-3-5-957-6-20"
          x="489.69968"
          y="167.83136"
-         style="font-size:12.5px">50</tspan></text>
+         style="font-size:12.5px">39</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1938,7 +1938,7 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="588.24884"
+       x="583.19806"
        y="167.57883"
        id="text12370-5-6-86-3-2"
        sodipodi:linespacing="125%"
@@ -1947,9 +1947,9 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan12372-3-5-28-9-68"
-         x="588.24884"
+         x="583.19806"
          y="167.57883"
-         style="font-size:12.5px">0</tspan></text>
+         style="font-size:12.5px">29</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1964,7 +1964,7 @@
          id="tspan12372-3-5-55-7-2-7"
          x="442.6759"
          y="194.14499"
-         style="font-size:12.5px">60</tspan></text>
+         style="font-size:12.5px">45</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1994,7 +1994,7 @@
          id="tspan12372-3-5-36-7-4-8"
          x="534.03882"
          y="193.40533"
-         style="font-size:12.5px">100</tspan></text>
+         style="font-size:12.5px">77</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2009,7 +2009,7 @@
          id="tspan12372-3-5-28-9-9-5"
          x="584.58716"
          y="194.37215"
-         style="font-size:12.5px">17</tspan></text>
+         style="font-size:12.5px">14</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2099,7 +2099,7 @@
          id="tspan12372-3-5-957-6-3-2"
          x="489.57364"
          y="278.07428"
-         style="font-size:12.5px">60</tspan></text>
+         style="font-size:12.5px">25</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2114,12 +2114,12 @@
          id="tspan12372-3-5-36-7-31-5"
          x="534.69177"
          y="278.13559"
-         style="font-size:12.5px">100</tspan></text>
+         style="font-size:12.5px">75</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="589.78589"
-       y="278.59735"
+       x="585.7453"
+       y="278.09229"
        id="text12370-5-6-86-3-11-2"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -2127,9 +2127,9 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan12372-3-5-28-9-8-3"
-         x="589.78589"
-         y="278.59735"
-         style="font-size:12.5px">0</tspan></text>
+         x="585.7453"
+         y="278.09229"
+         style="font-size:12.5px">20</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2169,12 +2169,12 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#cc9933;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect13046-5-9-3-2-0-5"
        width="58.214287"
        height="25.357143"
-       x="141.20024"
-       y="285.87897"
+       x="140.92419"
+       y="260.41324"
        ry="0"
        rx="0.22321428"
        inkscape:export-filename="Color Palette.png"
@@ -2183,8 +2183,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="36.257977"
-       y="303.39392"
+       x="36.75148"
+       y="276.53281"
        id="text12370-5-6-8-7-5-8-3-7"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -2192,13 +2192,13 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan12372-3-5-09-5-0-5-6-0"
-         x="36.257977"
-         y="303.39392"
+         x="36.75148"
+         y="276.53281"
          style="font-size:12.5px">Badge Bronze</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="210.79948"
+       x="217.94234"
        y="303.65701"
        id="text12370-5-6-90-6"
        sodipodi:linespacing="125%"
@@ -2207,13 +2207,13 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan12372-3-5-55-4"
-         x="210.79948"
+         x="217.94234"
          y="303.65701"
-         style="font-size:12.5px">170</tspan></text>
+         style="font-size:12.5px">0</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="264.50833"
+       x="260.93689"
        y="303.42242"
        id="text12370-5-6-74-55"
        sodipodi:linespacing="125%"
@@ -2222,14 +2222,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan12372-3-5-957-0"
-         x="264.50833"
+         x="260.93689"
          y="303.42242"
-         style="font-size:12.5px">0</tspan></text>
+         style="font-size:12.5px">34</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="309.98367"
-       y="303.77957"
+       x="307.84082"
+       y="303.06528"
        id="text12370-5-6-361-22"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -2237,9 +2237,9 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan12372-3-5-36-4"
-         x="309.98367"
-         y="303.77957"
-         style="font-size:12.5px">0</tspan></text>
+         x="307.84082"
+         y="303.06528"
+         style="font-size:12.5px">83</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2254,12 +2254,12 @@
          id="tspan12372-3-5-28-3"
          x="354.26938"
          y="303.42242"
-         style="font-size:12.5px">#aa0000</tspan></text>
+         style="font-size:12.5px">#e59728</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="446.41794"
-       y="304.20065"
+       x="442.37732"
+       y="303.69559"
        id="text12370-5-6-90-3-82-0-7"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -2267,14 +2267,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan12372-3-5-55-7-23-0-5"
-         x="446.41794"
-         y="304.20065"
-         style="font-size:12.5px">0</tspan></text>
+         x="442.37732"
+         y="303.69559"
+         style="font-size:12.5px">34</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="487.28012"
-       y="303.25177"
+       x="489.80551"
+       y="303.75684"
        id="text12370-5-6-74-0-3-9-0"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -2282,14 +2282,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan12372-3-5-957-6-3-2-9"
-         x="487.28012"
-         y="303.25177"
-         style="font-size:12.5px">100</tspan></text>
+         x="489.80551"
+         y="303.75684"
+         style="font-size:12.5px">83</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="534.92371"
-       y="303.81815"
+       x="537.4491"
+       y="302.80798"
        id="text12370-5-6-361-2-4-8-9"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -2297,14 +2297,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan12372-3-5-36-7-31-5-8"
-         x="534.92371"
-         y="303.81815"
-         style="font-size:12.5px">100</tspan></text>
+         x="537.4491"
+         y="302.80798"
+         style="font-size:12.5px">10</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="585.47211"
-       y="304.78497"
+       x="590.52289"
+       y="302.76468"
        id="text12370-5-6-86-3-11-2-1"
        sodipodi:linespacing="125%"
        inkscape:export-filename="Color Palette.png"
@@ -2312,14 +2312,26 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan12372-3-5-28-9-8-3-7"
-         x="585.47211"
-         y="304.78497"
-         style="font-size:12.5px">33</tspan></text>
+         x="590.52289"
+         y="302.76468"
+         style="font-size:12.5px">0</tspan></text>
     <path
        style="fill:#e6e6e6;fill-rule:evenodd;stroke:#4e4e51;stroke-width:0.301;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 30.253481,311.35623 688.064489,1.01013"
        id="path12967-0-5-32"
        inkscape:connector-curvature="0"
+       inkscape:export-filename="Color Palette.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13046-5-9-3-2-8-0-6"
+       width="58.214287"
+       height="25.357143"
+       x="141.35611"
+       y="497.86307"
+       ry="0"
+       rx="0.22321428"
        inkscape:export-filename="Color Palette.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
